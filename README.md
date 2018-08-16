@@ -5,7 +5,7 @@
 
 Description: Simple Game :  
 Siccors cuts Paper ;
-Stone crushed Siccors ;
+Stone crushes Siccors ;
 Paper beats Stone ;
 
 
